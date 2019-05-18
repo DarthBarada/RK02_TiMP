@@ -4,7 +4,7 @@
 ---
 ### Выбранные типы:
 - [ ] Список
-  - [ ] list
+  - [X] list
 - [ ] Очередь
   - [ ] queue
 - [ ] Дерево
@@ -17,9 +17,17 @@
 ---
 ---
 ### 1. Список
-`main body`
-
----
+1. [Реализация списка для работы с АТД (arias-spu/adt-list)](https://github.com/janLin9453/Tree)
+2. Variable size array (рус. массив переменной длины) - "является структурой данных массива, длина которого определяется во время выполнения (а не во время компиляции).".
+3. Файл [vsarray.cpp](https://github.com/arias-spu/adt-list/blob/master/vsarray.cpp)
+    >
+    > [55](https://github.com/arias-spu/adt-list/blob/b6e649b2667b44b9fb5e8ffb3f1c0a5bf0d500c1/vsarray.cpp#L55) - добавление элемента;
+    >
+    > [74](https://github.com/arias-spu/adt-list/blob/b6e649b2667b44b9fb5e8ffb3f1c0a5bf0d500c1/vsarray.cpp#L74) - изменение размера;
+    >
+    > [95](https://github.com/arias-spu/adt-list/blob/b6e649b2667b44b9fb5e8ffb3f1c0a5bf0d500c1/vsarray.cpp#L95) - удаление элемента по позиции;
+    >
+    > [107](https://github.com/arias-spu/adt-list/blob/b6e649b2667b44b9fb5e8ffb3f1c0a5bf0d500c1/vsarray.cpp#L107) - обращение к элементу по позиции;
 ### 2. Очередь
 `main body`
 
