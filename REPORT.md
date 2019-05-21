@@ -27,7 +27,7 @@
   
 ## Основная часть
 ### 1. Список
-1. [Проект: Lockstar/lockstar-gta-sa-mod](https://github.com/Lockstar/lockstar-gta-sa-mod)
+1. Проект: [Lockstar/lockstar-gta-sa-mod](https://github.com/Lockstar/lockstar-gta-sa-mod)
 2. list
 3. [CTaskManagementSystemSA.cpp](https://github.com/Lockstar/lockstar-gta-sa-mod/blob/eb73e1b2dcb3366d5008f21275e98ca921b258e3/src/game_sa/CTaskManagementSystemSA.cpp) - файл системнго менеджмента задач, в котором описываются методы одноимённой библиотеки [CTaskManagementSystemSA.h](https://github.com/Lockstar/lockstar-gta-sa-mod/blob/eb73e1b2dcb3366d5008f21275e98ca921b258e3/src/game_sa/CTaskManagementSystemSA.h)
 ###### Объявление:  [std::list < STaskListItem* >     m_TaskList](https://github.com/Lockstar/lockstar-gta-sa-mod/blob/eb73e1b2dcb3366d5008f21275e98ca921b258e3/src/game_sa/CTaskManagementSystemSA.h#L47) ;
