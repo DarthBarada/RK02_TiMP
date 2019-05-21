@@ -72,9 +72,9 @@
   >
   > [303](https://github.com/hahahu91/alg/blob/0efadb9f73693917041c72fdd0a2c58e6333d0ec/Comp1/Comp1/Comp1.cpp#L303) - удалить дерево ;
   >
-  > [377](https://github.com/hahahu91/alg/blob/0efadb9f73693917041c72fdd0a2c58e6333d0ec/Comp1/Comp1/Comp1.cpp#L377) - функция изменения узла (можно: переименовать, скопировать, удалить ... );
+  > [377](https://github.com/hahahu91/alg/blob/0efadb9f73693917041c72fdd0a2c58e6333d0ec/Comp1/Comp1/Comp1.cpp#L377) - функция изменения узла (можно: переименовать, скопировать, удалить ... ) ;
   >
-4. В данном проекте дерево было реализовано для изучения основ программирования, братья
+4. В данном проекте дерево было реализовано для изучения основ программирования, каждый узел хранит в себе информацию и значение уровня.
 ---
 ### 4. Множество
 1. Проект: [Lockstar/lockstar-gta-sa-mod](https://github.com/Lockstar/lockstar-gta-sa-mod)
@@ -84,7 +84,7 @@
    > 
    > [513](https://github.com/Lockstar/lockstar-gta-sa-mod/blob/eb73e1b2dcb3366d5008f21275e98ca921b258e3/src/game_sa/CGameSA.cpp#L513) - нахождение содержимого контейнера по ключу ;
    >
-   > [531](https://github.com/Lockstar/lockstar-gta-sa-mod/blob/eb73e1b2dcb3366d5008f21275e98ca921b258e3/src/game_sa/CGameSA.cpp#L531) - получение итераторов на начало и конец вектора; ;
+   > [531](https://github.com/Lockstar/lockstar-gta-sa-mod/blob/eb73e1b2dcb3366d5008f21275e98ca921b258e3/src/game_sa/CGameSA.cpp#L531) - получение итераторов на начало и конец вектора ;
    >
 4. Используемая переменная m_Cheats типа std::map<...> нужна для хранения читов и информации о их состоянии (вкл или выкл).
 ---
