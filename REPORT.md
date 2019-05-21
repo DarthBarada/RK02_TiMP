@@ -84,7 +84,7 @@
    > 
    > [513](https://github.com/Lockstar/lockstar-gta-sa-mod/blob/eb73e1b2dcb3366d5008f21275e98ca921b258e3/src/game_sa/CGameSA.cpp#L513) - нахождение содержимого контейнера по ключу ;
    >
-   > [531](https://github.com/Lockstar/lockstar-gta-sa-mod/blob/eb73e1b2dcb3366d5008f21275e98ca921b258e3/src/game_sa/CGameSA.cpp#L531) - получение итераторов на начало и конец вектора ;
+   > [531](https://github.com/Lockstar/lockstar-gta-sa-mod/blob/eb73e1b2dcb3366d5008f21275e98ca921b258e3/src/game_sa/CGameSA.cpp#L531) - получение итераторов на начало и конец ;
    >
 4. Используемая переменная m_Cheats типа std::map<...> нужна для хранения читов и информации о их состоянии (вкл или выкл).
 ---
