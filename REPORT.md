@@ -19,7 +19,7 @@
 - [ ] Список
   - [X] list
 - [ ] Очередь
-  - [ ] queue
+  - [X] queue
 - [ ] Дерево
   - [ ] tree
 - [ ] Множество
@@ -60,19 +60,21 @@
 4. В данном проекте очередь использовалась не только для проверки параллельности (наличия потоков), но и для вывода очерёдных сообщений.
 ---
 ### 3. Дерево
-1. Проект: [ ]()
-2. 
-3. 
-   > 
-   > []() - ;
-   >
-   > []() - ;
-   >
-   > []() - ;
-   >
-   > []() - ;
-   > 
-4.
+1. Проект: [hahahu91/alg](https://github.com/hahahu91/alg)
+2. tree
+3. Файл [Comp1.cpp](https://github.com/hahahu91/alg/blob/0efadb9f73693917041c72fdd0a2c58e6333d0ec/Comp1/Comp1/Comp1.cpp)
+  >
+  > [185](https://github.com/hahahu91/alg/blob/0efadb9f73693917041c72fdd0a2c58e6333d0ec/Comp1/Comp1/Comp1.cpp#L185) - добавление узла ;
+  >
+  > [231](https://github.com/hahahu91/alg/blob/0efadb9f73693917041c72fdd0a2c58e6333d0ec/Comp1/Comp1/Comp1.cpp#L231) - добавления звена в дерево через отца(брата) ;
+  >
+  > [264](https://github.com/hahahu91/alg/blob/0efadb9f73693917041c72fdd0a2c58e6333d0ec/Comp1/Comp1/Comp1.cpp#L264) - объединение деревьев ;
+  >
+  > [303](https://github.com/hahahu91/alg/blob/0efadb9f73693917041c72fdd0a2c58e6333d0ec/Comp1/Comp1/Comp1.cpp#L303) - удалить дерево ;
+  >
+  > [377](https://github.com/hahahu91/alg/blob/0efadb9f73693917041c72fdd0a2c58e6333d0ec/Comp1/Comp1/Comp1.cpp#L377) - функция изменения узла (можно: переименовать, скопировать, удалить ... );
+  >
+4. В данном проекте дерево было реализовано для изучения основ программирования, братья
 ---
 ### 4. Множество
 1. Проект: [Lockstar/lockstar-gta-sa-mod](https://github.com/Lockstar/lockstar-gta-sa-mod)
