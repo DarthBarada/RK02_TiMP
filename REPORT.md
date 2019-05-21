@@ -23,7 +23,7 @@
 - [ ] Дерево
   - [ ] tree
 - [ ] Множество
-  - [ ] map
+  - [X] map
   
 ## Основная часть
 ### 1. Список
@@ -43,22 +43,24 @@
 4. Используемая переменная m_TaskList типа std::list<...> нужна для хранения задач, которые будут выполнены в ходе работы программы. Выбранный тип обосновывается набором операций над ним (очистка, удаление элементов, добавление элементов, последовательный обход), а также отсутствием необходимости доступа к i-му элементу.
 ---
 ### 2. Очередь
-1.Проект: [ ]()
-2. 
-3. 
-   > 
-   > []() - ;
-   >
-   > []() - ;
-   >
-   > []() - ;
-   >
-   > []() - ;
-   > 
-4.
+1. Проект: [Eaglegor/UnknownEngine](https://github.com/Eaglegor/UnknownEngine)
+2. queue
+3. Файл [LockingConcurrentQueue.h](https://github.com/Eaglegor/UnknownEngine/blob/53748b2a5038c8561f2f4a8aa7273db4061627f4/Utils/include/Concurrency/DataStructures/LockingConcurrentQueue.h)
+     > 
+     > [20](https://github.com/Eaglegor/UnknownEngine/blob/53748b2a5038c8561f2f4a8aa7273db4061627f4/Utils/include/Concurrency/DataStructures/LockingConcurrentQueue.h#L20) - проверка содержания ;
+     >
+     > [21](https://github.com/Eaglegor/UnknownEngine/blob/53748b2a5038c8561f2f4a8aa7273db4061627f4/Utils/include/Concurrency/DataStructures/LockingConcurrentQueue.h#L21) - обращение к началу очереди ;
+     >
+     > [22](https://github.com/Eaglegor/UnknownEngine/blob/53748b2a5038c8561f2f4a8aa7273db4061627f4/Utils/include/Concurrency/DataStructures/LockingConcurrentQueue.h#L22) - удаление элемента из очереди ;
+     >
+     > [29](https://github.com/Eaglegor/UnknownEngine/blob/53748b2a5038c8561f2f4a8aa7273db4061627f4/Utils/include/Concurrency/DataStructures/LockingConcurrentQueue.h#L29) - добаление элемента в список ;
+     > 
+     > [35](https://github.com/Eaglegor/UnknownEngine/blob/53748b2a5038c8561f2f4a8aa7273db4061627f4/Utils/include/Concurrency/DataStructures/LockingConcurrentQueue.h#L35) - размер очереди ;
+     >
+4. В данном проекте очередь использовалась не только для проверки параллельности (наличия потоков), но и для вывода очерёдных сообщений.
 ---
 ### 3. Дерево
-1.Проект: [ ]()
+1. Проект: [ ]()
 2. 
 3. 
    > 
@@ -82,5 +84,5 @@
    >
    > [531](https://github.com/Lockstar/lockstar-gta-sa-mod/blob/eb73e1b2dcb3366d5008f21275e98ca921b258e3/src/game_sa/CGameSA.cpp#L531) - получение итераторов на начало и конец вектора; ;
    >
-4. Используемая переменная m_Cheats типа std::map<...> нужна для хранения читов и информации о их состоянии (вкл или выкл), которые будут использованы в ходе работы программы.
+4. Используемая переменная m_Cheats типа std::map<...> нужна для хранения читов и информации о их состоянии (вкл или выкл).
 ---
