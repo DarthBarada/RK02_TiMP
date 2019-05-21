@@ -41,6 +41,7 @@
    > [71](https://github.com/Lockstar/lockstar-gta-sa-mod/blob/eb73e1b2dcb3366d5008f21275e98ca921b258e3/src/game_sa/CTaskManagementSystemSA.cpp#L71) - удаление элемента методом erase;
    > 
 4. 
+---
 ### 2. Очередь
 1.[Проект: ]()
 2. 
