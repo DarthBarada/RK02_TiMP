@@ -26,8 +26,6 @@
   - [ ] set
 ---
 ## Основная часть
----
----
 ### 1. Список
 1. [Проект: Lockstar/lockstar-gta-sa-mod](https://github.com/Lockstar/lockstar-gta-sa-mod)
 2. list
